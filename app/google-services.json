@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "954382974270",
+    "project_id": "orientationapp-f49de",
+    "storage_bucket": "orientationapp-f49de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954382974270:android:4c440ae7f2ffc66be4006f",
+        "android_client_info": {
+          "package_name": "com.example.inductionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954382974270-h1dk20djb6l3fvghav3t9ufnc6sshjnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaHOr8tmTobFdHxFGyvEZ62R6nyrktItQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954382974270-h1dk20djb6l3fvghav3t9ufnc6sshjnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
